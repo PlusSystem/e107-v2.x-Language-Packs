@@ -1,0 +1,86 @@
+<?php
+/*
++----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /github.com/e107inc/e107_v2.x/e107_languages/Arabic/lan_comment.php,v $
+|     $Revision$
+|     $Date$
+|     $Author$
++----------------------------------------------------------------------------+
+*/
+define("COMLAN_0", "[محجوب من الإدارة]");
+define("COMLAN_1", "إلغاء الحجب");
+define("COMLAN_2", "حجب");
+//define("COMLAN_3", "حذف"); /
+/new > LAN_DELETE
+define("COMLAN_4", "معلومات");
+define("COMLAN_5", "تعليقات ...");
+define("COMLAN_6", "يجب أن تكون مسجلا لتتمكن من  التعليقات على هذا الموقع - يرجى تسجيل الدخول، أو إذا لم تكن مسجلا انقر للتسجيل");
+define("COMLAN_7", "مسؤول الموقع الرئيسي");
+define("COMLAN_8", "تعليق");
+define("COMLAN_9", "إضافة تعليق");
+define("COMLAN_10", "المدير");
+define("COMLAN_11", "لم يتمكن من إدخال تعليقك في قاعدة البيانات - يرجى إعادة كتابة تاركة أية أحرف غير القياسية.");
+define("COMLAN_12", "متخدم");
+define("COMLAN_16", "أسم المستخدمة: ");
+// define("COMLAN_99", "التعليقات");
+define("COMLAN_100", "الأخبار");
+define("COMLAN_101", "الإستفتاءت");
+define("COMLAN_102", "الرد على: ");
+define("COMLAN_103", "مقال");
+define("COMLAN_104", "عرض");
+define("COMLAN_105", "محتويات");
+define("COMLAN_106", "التحميلات");
+define("COMLAN_145", "مسجل: ");
+define("COMLAN_194", "ضيف");
+define("COMLAN_195", "عضو مسجل");
+define("COMLAN_310", "اسم المستخدم موجود - إذا كان اسم المستخدم الخاص بك يرجى تسجيل الدخول.");
+define("COMLAN_312", "مشاركة مكررة - غير قادر على قبولها.");
+define("COMLAN_313", "الموقع");
+define("COMLAN_314", "ملاحظات المشرفين");
+define("COMLAN_315", "تعقيبات");
+define("COMLAN_316", "لا يوجد تعقيب لهذا الإخال.");
+define("COMLAN_317", "تعقيبات المشرفين");
+define("COMLAN_318", "تحرير التعليق");
+define("COMLAN_319", "تم التحرير");
+define("COMLAN_320", "تحديث التعليق");
+define("COMLAN_321", "هنا");
+define("COMLAN_322", "للتسجيل");
+define("COMLAN_323", "خطأ!");
+define("COMLAN_324", "الموضوع");
+define("COMLAN_325", "رد:");
+define("COMLAN_326", "الرد على هذا");
+//
+define("COMLAN_327", "تقييم");//LAN_RATING
+define("COMLAN_328", "التعليقات مقفلة");
+define("COMLAN_329", "غير مصرح لك");
+define("COMLAN_330", "IP:");
+define("COMLAN_331", "تنتظر الموافقة");
+define("COMLAN_332", "لايمكن حذف التعليق");
+define("COMLAN_333", "تمت الموافقة على التعليق");
+define("COMLAN_334", "تعذر الموافقة على التعليق");
+define("COMLAN_335", "موافق عليه");
+define("COMLAN_336", "الرجاء كتابت أي شي أولاً.");
+define("COMLAN_337", "تم التحديث بنجاح.");
+define("COMLAN_400", "موافق عليها");
+define("COMLAN_401", "مرفوضة");
+define("COMLAN_402", "قيد الإنتظار");
+define("COMLAN_403", "أكتب رسالة...");
+define("COMLAN_404", "الموافقة");
+define("COMLAN_TYPE_1", "الأخبار");
+define("COMLAN_TYPE_2", "التحميلات");
+define("COMLAN_TYPE_3", "الإسئلة المتكررة");
+define("COMLAN_TYPE_4", "التصويتات");
+define("COMLAN_TYPE_5", "مستندات");
+define("COMLAN_TYPE_6", "bugtrack");
+define("COMLAN_TYPE_7", "أفكار");
+define("COMLAN_TYPE_8", "الملف الشخصي");
+define("COMLAN_TYPE_PAGE", "المحتويات");  
+// Really custom page, but use a 'non-technical' description
+
+define("COMLAN_500", "الرجاء [تسجيل الدخول] لإضافة تعليق.");
+define("COMLAN_501", "إذا لم تكن مسجلا بعد، يمكنك [انقر هنا للتسجيل].");
+
+
+?>
